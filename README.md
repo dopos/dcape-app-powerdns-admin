@@ -19,7 +19,7 @@
 * linux 64bit (git, make, wget, gawk, openssl)
 * [docker](http://docker.io)
 * [dcape](https://github.com/dopos/dcape)
-* [PowerDNS-admin dcape app](https://github.com/dopos/dcape-app-powerdns-admin)
+* [PowerDNS dcape app](https://github.com/dopos/dcape-app-powerdns)
 
 ## Usage
 
