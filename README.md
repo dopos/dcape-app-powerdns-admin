@@ -1,11 +1,11 @@
-# dcape-app-powerdns
+# dcape-app-powerdns-admin
 
 [![GitHub Release][1]][2] [![GitHub code size in bytes][3]]() [![GitHub license][4]][5]
 
-[1]: https://img.shields.io/github/release/dopos/dcape-app-powerdns.svg
-[2]: https://github.com/dopos/dcape-app-powerdns/releases
-[3]: https://img.shields.io/github/languages/code-size/dopos/dcape-app-powerdns.svg
-[4]: https://img.shields.io/github/license/dopos/dcape-app-powerdns.svg
+[1]: https://img.shields.io/github/release/dopos/dcape-app-powerdns-admin.svg
+[2]: https://github.com/dopos/dcape-app-powerdns-admin/releases
+[3]: https://img.shields.io/github/languages/code-size/dopos/dcape-app-powerdns-admin.svg
+[4]: https://img.shields.io/github/license/dopos/dcape-app-powerdns-admin.svg
 [5]: LICENSE
 
 [PowerDNS-Admin](https://github.com/PowerDNS-Admin/PowerDNS-Admin) application package for [dcape](https://github.com/dopos/dcape).
@@ -19,7 +19,7 @@
 * linux 64bit (git, make, wget, gawk, openssl)
 * [docker](http://docker.io)
 * [dcape](https://github.com/dopos/dcape)
-* [PowerDNS dcape app](https://github.com/dopos/dcape-app-powerdns)
+* [PowerDNS-admin dcape app](https://github.com/dopos/dcape-app-powerdns-admin)
 
 ## Usage
 
@@ -35,4 +35,4 @@ See also: [Deploy setup](https://github.com/dopos/dcape/blob/master/DEPLOY.md) (
 
 The MIT License (MIT), see [LICENSE](LICENSE).
 
-Copyright (c) 2017 Aleksei Kovrizhkin <lekovr+dopos@gmail.com>
+Copyright (c) 2023 Aleksei Kovrizhkin <lekovr+dopos@gmail.com>
