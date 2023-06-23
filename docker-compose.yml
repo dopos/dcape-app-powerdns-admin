@@ -5,4 +5,3 @@ services:
       - GUINCORN_TIMEOUT=60
       - GUNICORN_WORKERS=2
       - GUNICORN_LOGLEVEL=DEBUG
-    restart: unless-stopped
